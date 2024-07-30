@@ -1,0 +1,1001 @@
+user_id,age_group,gender,location,device_type,City,Country
+1,35-44,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+2,25-34,Male,"New York, USA",Desktop,New York,USA
+3,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+4,35-44,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+5,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+6,55+,Male,"London, UK",Tablet,London,UK
+7,55+,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+8,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+9,45-54,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+10,35-44,Female,"London, UK",Desktop,London,UK
+11,55+,Male,"New York, USA",Desktop,New York,USA
+12,35-44,Male,"London, UK",Tablet,London,UK
+13,35-44,Female,"New York, USA",Desktop,New York,USA
+14,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+15,55+,Female,"New York, USA",Tablet,New York,USA
+16,18-24,Male,"New York, USA",Tablet,New York,USA
+17,45-54,Male,"New York, USA",Desktop,New York,USA
+18,18-24,Male,"Berlin, GER",Desktop,Berlin,GER
+19,35-44,Male,"New York, USA",Desktop,New York,USA
+20,18-24,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+21,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+22,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+23,45-54,Female,"London, UK",Mobile,London,UK
+24,55+,Female,"Sydney, AUS",Desktop,Sydney,AUS
+25,55+,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+26,35-44,Female,"New York, USA",Desktop,New York,USA
+27,35-44,Male,"London, UK",Tablet,London,UK
+28,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+29,45-54,Male,"London, UK",Tablet,London,UK
+30,18-24,Female,"Sydney, AUS",Mobile,Sydney,AUS
+31,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+32,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+33,18-24,Male,"Sydney, AUS",Mobile,Sydney,AUS
+34,45-54,Female,"Sydney, AUS",Desktop,Sydney,AUS
+35,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+36,55+,Female,"London, UK",Mobile,London,UK
+37,35-44,Male,"Berlin, GER",Mobile,Berlin,GER
+38,45-54,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+39,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+40,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+41,55+,Male,"New York, USA",Desktop,New York,USA
+42,18-24,Male,"New York, USA",Tablet,New York,USA
+43,55+,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+44,25-34,Male,"London, UK",Tablet,London,UK
+45,55+,Male,"London, UK",Desktop,London,UK
+46,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+47,45-54,Male,"Sydney, AUS",Mobile,Sydney,AUS
+48,25-34,Female,"New York, USA",Mobile,New York,USA
+49,35-44,Female,"London, UK",Mobile,London,UK
+50,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+51,55+,Female,"Sydney, AUS",Mobile,Sydney,AUS
+52,25-34,Male,"Sydney, AUS",Desktop,Sydney,AUS
+53,18-24,Female,"New York, USA",Tablet,New York,USA
+54,45-54,Male,"London, UK",Mobile,London,UK
+55,25-34,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+56,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+57,18-24,Male,"London, UK",Tablet,London,UK
+58,18-24,Female,"Sydney, AUS",Tablet,Sydney,AUS
+59,45-54,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+60,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+61,35-44,Male,"London, UK",Desktop,London,UK
+62,18-24,Male,"Berlin, GER",Tablet,Berlin,GER
+63,55+,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+64,55+,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+65,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+66,18-24,Female,"Berlin, GER",Mobile,Berlin,GER
+67,35-44,Male,"London, UK",Mobile,London,UK
+68,25-34,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+69,55+,Male,"New York, USA",Mobile,New York,USA
+70,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+71,35-44,Female,"London, UK",Mobile,London,UK
+72,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+73,18-24,Female,"London, UK",Mobile,London,UK
+74,55+,Male,"London, UK",Desktop,London,UK
+75,35-44,Female,"Berlin, GER",Tablet,Berlin,GER
+76,25-34,Male,"London, UK",Mobile,London,UK
+77,25-34,Female,"New York, USA",Desktop,New York,USA
+78,45-54,Male,"Sydney, AUS",Mobile,Sydney,AUS
+79,25-34,Female,"Sydney, AUS",Mobile,Sydney,AUS
+80,35-44,Female,"Berlin, GER",Tablet,Berlin,GER
+81,45-54,Female,"New York, USA",Mobile,New York,USA
+82,18-24,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+83,25-34,Female,"London, UK",Mobile,London,UK
+84,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+85,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+86,35-44,Female,"New York, USA",Mobile,New York,USA
+87,25-34,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+88,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+89,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+90,55+,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+91,55+,Female,"London, UK",Mobile,London,UK
+92,35-44,Male,"Berlin, GER",Tablet,Berlin,GER
+93,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+94,25-34,Female,"Berlin, GER",Tablet,Berlin,GER
+95,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+96,18-24,Male,"New York, USA",Desktop,New York,USA
+97,45-54,Female,"London, UK",Desktop,London,UK
+98,35-44,Female,"New York, USA",Desktop,New York,USA
+99,45-54,Female,"New York, USA",Tablet,New York,USA
+100,25-34,Male,"New York, USA",Mobile,New York,USA
+101,55+,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+102,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+103,55+,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+104,25-34,Male,"Berlin, GER",Desktop,Berlin,GER
+105,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+106,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+107,35-44,Male,"Sydney, AUS",Tablet,Sydney,AUS
+108,35-44,Female,"London, UK",Mobile,London,UK
+109,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+110,25-34,Male,"New York, USA",Desktop,New York,USA
+111,18-24,Female,"Berlin, GER",Mobile,Berlin,GER
+112,55+,Female,"Sydney, AUS",Mobile,Sydney,AUS
+113,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+114,35-44,Male,"Sydney, AUS",Desktop,Sydney,AUS
+115,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+116,25-34,Male,"London, UK",Mobile,London,UK
+117,55+,Male,"New York, USA",Mobile,New York,USA
+118,45-54,Female,"New York, USA",Tablet,New York,USA
+119,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+120,45-54,Female,"New York, USA",Desktop,New York,USA
+121,55+,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+122,45-54,Female,"New York, USA",Tablet,New York,USA
+123,18-24,Male,"Berlin, GER",Mobile,Berlin,GER
+124,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+125,45-54,Female,"London, UK",Mobile,London,UK
+126,18-24,Female,"London, UK",Desktop,London,UK
+127,35-44,Female,"Berlin, GER",Desktop,Berlin,GER
+128,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+129,55+,Female,"London, UK",Tablet,London,UK
+130,35-44,Female,"Berlin, GER",Desktop,Berlin,GER
+131,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+132,35-44,Female,"London, UK",Tablet,London,UK
+133,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+134,18-24,Female,"Sydney, AUS",Desktop,Sydney,AUS
+135,35-44,Female,"Berlin, GER",Mobile,Berlin,GER
+136,55+,Female,"London, UK",Desktop,London,UK
+137,45-54,Male,"New York, USA",Mobile,New York,USA
+138,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+139,25-34,Male,"New York, USA",Desktop,New York,USA
+140,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+141,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+142,45-54,Female,"Sydney, AUS",Tablet,Sydney,AUS
+143,55+,Male,"Berlin, GER",Desktop,Berlin,GER
+144,25-34,Female,"Sydney, AUS",Mobile,Sydney,AUS
+145,25-34,Female,"Berlin, GER",Tablet,Berlin,GER
+146,55+,Female,"New York, USA",Desktop,New York,USA
+147,45-54,Male,"New York, USA",Tablet,New York,USA
+148,35-44,Male,"New York, USA",Tablet,New York,USA
+149,25-34,Female,"London, UK",Tablet,London,UK
+150,18-24,Female,"New York, USA",Mobile,New York,USA
+151,35-44,Female,"London, UK",Desktop,London,UK
+152,25-34,Male,"Sydney, AUS",Desktop,Sydney,AUS
+153,45-54,Female,"London, UK",Tablet,London,UK
+154,45-54,Male,"London, UK",Desktop,London,UK
+155,25-34,Male,"New York, USA",Mobile,New York,USA
+156,45-54,Male,"Sydney, AUS",Tablet,Sydney,AUS
+157,45-54,Male,"New York, USA",Tablet,New York,USA
+158,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+159,45-54,Female,"Sydney, AUS",Tablet,Sydney,AUS
+160,45-54,Female,"London, UK",Mobile,London,UK
+161,25-34,Male,"New York, USA",Tablet,New York,USA
+162,18-24,Male,"Sydney, AUS",Mobile,Sydney,AUS
+163,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+164,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+165,45-54,Male,"Sydney, AUS",Mobile,Sydney,AUS
+166,18-24,Male,"New York, USA",Tablet,New York,USA
+167,45-54,Female,"London, UK",Mobile,London,UK
+168,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+169,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+170,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+171,25-34,Female,"New York, USA",Mobile,New York,USA
+172,35-44,Female,"London, UK",Tablet,London,UK
+173,45-54,Female,"London, UK",Tablet,London,UK
+174,55+,Female,"London, UK",Desktop,London,UK
+175,45-54,Male,"Berlin, GER",Tablet,Berlin,GER
+176,25-34,Male,"London, UK",Tablet,London,UK
+177,55+,Male,"Berlin, GER",Tablet,Berlin,GER
+178,18-24,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+179,45-54,Female,"New York, USA",Tablet,New York,USA
+180,55+,Male,"Sydney, AUS",Tablet,Sydney,AUS
+181,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+182,25-34,Female,"New York, USA",Mobile,New York,USA
+183,35-44,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+184,55+,Male,"London, UK",Mobile,London,UK
+185,25-34,Male,"London, UK",Mobile,London,UK
+186,25-34,Female,"London, UK",Tablet,London,UK
+187,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+188,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+189,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+190,18-24,Male,"New York, USA",Mobile,New York,USA
+191,45-54,Male,"Berlin, GER",Tablet,Berlin,GER
+192,25-34,Male,"London, UK",Desktop,London,UK
+193,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+194,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+195,35-44,Male,"Berlin, GER",Tablet,Berlin,GER
+196,35-44,Male,"New York, USA",Mobile,New York,USA
+197,18-24,Female,"New York, USA",Tablet,New York,USA
+198,18-24,Female,"London, UK",Tablet,London,UK
+199,55+,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+200,18-24,Female,"London, UK",Mobile,London,UK
+201,25-34,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+202,45-54,Female,"Berlin, GER",Mobile,Berlin,GER
+203,25-34,Male,"Berlin, GER",Mobile,Berlin,GER
+204,55+,Female,"Berlin, GER",Mobile,Berlin,GER
+205,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+206,35-44,Female,"London, UK",Mobile,London,UK
+207,55+,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+208,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+209,35-44,Female,"London, UK",Desktop,London,UK
+210,45-54,Male,"New York, USA",Mobile,New York,USA
+211,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+212,25-34,Female,"New York, USA",Desktop,New York,USA
+213,35-44,Female,"Berlin, GER",Desktop,Berlin,GER
+214,35-44,Male,"New York, USA",Desktop,New York,USA
+215,35-44,Female,"London, UK",Desktop,London,UK
+216,45-54,Female,"New York, USA",Tablet,New York,USA
+217,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+218,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+219,25-34,Male,"London, UK",Tablet,London,UK
+220,35-44,Male,"New York, USA",Desktop,New York,USA
+221,55+,Male,"Berlin, GER",Mobile,Berlin,GER
+222,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+223,35-44,Female,"London, UK",Mobile,London,UK
+224,25-34,Female,"Berlin, GER",Mobile,Berlin,GER
+225,25-34,Male,"New York, USA",Tablet,New York,USA
+226,25-34,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+227,55+,Male,"Sydney, AUS",Tablet,Sydney,AUS
+228,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+229,18-24,Female,"New York, USA",Desktop,New York,USA
+230,55+,Male,"New York, USA",Mobile,New York,USA
+231,35-44,Female,"Berlin, GER",Mobile,Berlin,GER
+232,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+233,25-34,Male,"Berlin, GER",Mobile,Berlin,GER
+234,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+235,35-44,Female,"London, UK",Desktop,London,UK
+236,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+237,18-24,Male,"Berlin, GER",Mobile,Berlin,GER
+238,18-24,Male,"New York, USA",Tablet,New York,USA
+239,55+,Male,"London, UK",Tablet,London,UK
+240,55+,Female,"London, UK",Desktop,London,UK
+241,45-54,Male,"London, UK",Mobile,London,UK
+242,55+,Female,"Sydney, AUS",Desktop,Sydney,AUS
+243,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+244,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+245,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+246,18-24,Female,"London, UK",Mobile,London,UK
+247,45-54,Female,"New York, USA",Tablet,New York,USA
+248,55+,Female,"Berlin, GER",Mobile,Berlin,GER
+249,55+,Male,"London, UK",Mobile,London,UK
+250,45-54,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+251,55+,Female,"London, UK",Mobile,London,UK
+252,35-44,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+253,45-54,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+254,45-54,Female,"London, UK",Desktop,London,UK
+255,18-24,Male,"New York, USA",Desktop,New York,USA
+256,35-44,Female,"London, UK",Mobile,London,UK
+257,45-54,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+258,18-24,Male,"Sydney, AUS",Desktop,Sydney,AUS
+259,35-44,Female,"Berlin, GER",Desktop,Berlin,GER
+260,25-34,Female,"London, UK",Desktop,London,UK
+261,25-34,Female,"Sydney, AUS",Mobile,Sydney,AUS
+262,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+263,45-54,Female,"Berlin, GER",Tablet,Berlin,GER
+264,18-24,Female,"Sydney, AUS",Tablet,Sydney,AUS
+265,55+,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+266,25-34,Male,"New York, USA",Mobile,New York,USA
+267,18-24,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+268,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+269,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+270,18-24,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+271,25-34,Female,"London, UK",Desktop,London,UK
+272,45-54,Male,"London, UK",Desktop,London,UK
+273,25-34,Female,"Berlin, GER",Mobile,Berlin,GER
+274,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+275,35-44,Female,"London, UK",Desktop,London,UK
+276,45-54,Female,"New York, USA",Desktop,New York,USA
+277,45-54,Female,"New York, USA",Desktop,New York,USA
+278,25-34,Male,"Berlin, GER",Desktop,Berlin,GER
+279,18-24,Male,"London, UK",Desktop,London,UK
+280,18-24,Female,"Sydney, AUS",Tablet,Sydney,AUS
+281,55+,Male,"Berlin, GER",Mobile,Berlin,GER
+282,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+283,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+284,35-44,Male,"New York, USA",Desktop,New York,USA
+285,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+286,25-34,Male,"New York, USA",Desktop,New York,USA
+287,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+288,25-34,Male,"New York, USA",Mobile,New York,USA
+289,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+290,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+291,18-24,Female,"Berlin, GER",Mobile,Berlin,GER
+292,35-44,Female,"Sydney, AUS",Tablet,Sydney,AUS
+293,18-24,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+294,35-44,Male,"Sydney, AUS",Tablet,Sydney,AUS
+295,45-54,Male,"London, UK",Mobile,London,UK
+296,25-34,Female,"Sydney, AUS",Desktop,Sydney,AUS
+297,18-24,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+298,35-44,Male,"New York, USA",Tablet,New York,USA
+299,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+300,55+,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+301,55+,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+302,35-44,Female,"London, UK",Tablet,London,UK
+303,25-34,Male,"New York, USA",Tablet,New York,USA
+304,18-24,Male,"Sydney, AUS",Desktop,Sydney,AUS
+305,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+306,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+307,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+308,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+309,45-54,Male,"New York, USA",Desktop,New York,USA
+310,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+311,55+,Female,"Sydney, AUS",Desktop,Sydney,AUS
+312,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+313,25-34,Male,"London, UK",Mobile,London,UK
+314,45-54,Male,"Sydney, AUS",Tablet,Sydney,AUS
+315,45-54,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+316,35-44,Male,"New York, USA",Tablet,New York,USA
+317,55+,Male,"London, UK",Mobile,London,UK
+318,55+,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+319,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+320,35-44,Male,"London, UK",Tablet,London,UK
+321,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+322,55+,Female,"Berlin, GER",Mobile,Berlin,GER
+323,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+324,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+325,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+326,45-54,Male,"New York, USA",Tablet,New York,USA
+327,55+,Female,"Berlin, GER",Desktop,Berlin,GER
+328,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+329,35-44,Male,"Sydney, AUS",Desktop,Sydney,AUS
+330,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+331,55+,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+332,18-24,Male,"New York, USA",Desktop,New York,USA
+333,25-34,Female,"Sydney, AUS",Tablet,Sydney,AUS
+334,55+,Female,"London, UK",Tablet,London,UK
+335,18-24,Male,"London, UK",Tablet,London,UK
+336,25-34,Female,"Berlin, GER",Tablet,Berlin,GER
+337,35-44,Female,"London, UK",Tablet,London,UK
+338,35-44,Male,"London, UK",Desktop,London,UK
+339,55+,Female,"New York, USA",Desktop,New York,USA
+340,45-54,Male,"New York, USA",Tablet,New York,USA
+341,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+342,35-44,Male,"New York, USA",Mobile,New York,USA
+343,18-24,Female,"London, UK",Tablet,London,UK
+344,35-44,Female,"London, UK",Mobile,London,UK
+345,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+346,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+347,25-34,Male,"New York, USA",Mobile,New York,USA
+348,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+349,25-34,Male,"Sydney, AUS",Tablet,Sydney,AUS
+350,18-24,Female,"Sydney, AUS",Tablet,Sydney,AUS
+351,55+,Male,"New York, USA",Desktop,New York,USA
+352,25-34,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+353,45-54,Female,"London, UK",Mobile,London,UK
+354,45-54,Female,"Berlin, GER",Tablet,Berlin,GER
+355,35-44,Female,"Sydney, AUS",Tablet,Sydney,AUS
+356,45-54,Female,"London, UK",Tablet,London,UK
+357,55+,Male,"New York, USA",Desktop,New York,USA
+358,35-44,Female,"New York, USA",Tablet,New York,USA
+359,25-34,Female,"London, UK",Desktop,London,UK
+360,18-24,Female,"New York, USA",Mobile,New York,USA
+361,18-24,Male,"London, UK",Tablet,London,UK
+362,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+363,55+,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+364,55+,Female,"New York, USA",Desktop,New York,USA
+365,18-24,Female,"Sydney, AUS",Mobile,Sydney,AUS
+366,25-34,Male,"New York, USA",Tablet,New York,USA
+367,35-44,Male,"London, UK",Mobile,London,UK
+368,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+369,45-54,Female,"New York, USA",Tablet,New York,USA
+370,18-24,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+371,35-44,Female,"New York, USA",Desktop,New York,USA
+372,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+373,55+,Male,"London, UK",Desktop,London,UK
+374,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+375,35-44,Male,"London, UK",Mobile,London,UK
+376,25-34,Female,"Berlin, GER",Tablet,Berlin,GER
+377,25-34,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+378,55+,Male,"New York, USA",Tablet,New York,USA
+379,18-24,Female,"Sydney, AUS",Mobile,Sydney,AUS
+380,35-44,Female,"New York, USA",Desktop,New York,USA
+381,35-44,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+382,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+383,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+384,35-44,Male,"London, UK",Desktop,London,UK
+385,18-24,Male,"New York, USA",Desktop,New York,USA
+386,55+,Male,"New York, USA",Desktop,New York,USA
+387,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+388,55+,Female,"Sydney, AUS",Mobile,Sydney,AUS
+389,25-34,Male,"New York, USA",Mobile,New York,USA
+390,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+391,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+392,55+,Female,"Sydney, AUS",Desktop,Sydney,AUS
+393,55+,Male,"London, UK",Tablet,London,UK
+394,35-44,Male,"Sydney, AUS",Tablet,Sydney,AUS
+395,45-54,Female,"Sydney, AUS",Tablet,Sydney,AUS
+396,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+397,18-24,Male,"London, UK",Mobile,London,UK
+398,25-34,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+399,18-24,Female,"Sydney, AUS",Mobile,Sydney,AUS
+400,18-24,Female,"New York, USA",Desktop,New York,USA
+401,35-44,Female,"Berlin, GER",Tablet,Berlin,GER
+402,18-24,Male,"Sydney, AUS",Desktop,Sydney,AUS
+403,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+404,55+,Male,"New York, USA",Mobile,New York,USA
+405,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+406,55+,Female,"London, UK",Tablet,London,UK
+407,45-54,Female,"New York, USA",Mobile,New York,USA
+408,35-44,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+409,18-24,Male,"New York, USA",Tablet,New York,USA
+410,55+,Male,"London, UK",Mobile,London,UK
+411,45-54,Male,"London, UK",Desktop,London,UK
+412,35-44,Male,"Sydney, AUS",Tablet,Sydney,AUS
+413,45-54,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+414,55+,Male,"London, UK",Mobile,London,UK
+415,35-44,Female,"London, UK",Mobile,London,UK
+416,55+,Female,"New York, USA",Tablet,New York,USA
+417,45-54,Female,"London, UK",Mobile,London,UK
+418,35-44,Male,"London, UK",Desktop,London,UK
+419,25-34,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+420,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+421,45-54,Male,"New York, USA",Tablet,New York,USA
+422,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+423,25-34,Female,"London, UK",Tablet,London,UK
+424,25-34,Male,"Berlin, GER",Desktop,Berlin,GER
+425,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+426,35-44,Female,"New York, USA",Desktop,New York,USA
+427,45-54,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+428,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+429,18-24,Female,"New York, USA",Mobile,New York,USA
+430,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+431,45-54,Male,"New York, USA",Desktop,New York,USA
+432,55+,Female,"New York, USA",Desktop,New York,USA
+433,55+,Male,"New York, USA",Mobile,New York,USA
+434,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+435,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+436,35-44,Male,"Sydney, AUS",Desktop,Sydney,AUS
+437,55+,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+438,18-24,Female,"Sydney, AUS",Desktop,Sydney,AUS
+439,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+440,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+441,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+442,18-24,Female,"London, UK",Tablet,London,UK
+443,18-24,Female,"Sydney, AUS",Desktop,Sydney,AUS
+444,18-24,Male,"Sydney, AUS",Desktop,Sydney,AUS
+445,25-34,Female,"Sydney, AUS",Desktop,Sydney,AUS
+446,55+,Male,"London, UK",Mobile,London,UK
+447,18-24,Female,"New York, USA",Tablet,New York,USA
+448,18-24,Female,"New York, USA",Tablet,New York,USA
+449,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+450,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+451,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+452,18-24,Female,"Sydney, AUS",Tablet,Sydney,AUS
+453,18-24,Female,"London, UK",Desktop,London,UK
+454,25-34,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+455,25-34,Female,"Sydney, AUS",Mobile,Sydney,AUS
+456,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+457,45-54,Male,"Sydney, AUS",Mobile,Sydney,AUS
+458,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+459,25-34,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+460,25-34,Male,"Sydney, AUS",Tablet,Sydney,AUS
+461,35-44,Female,"Sydney, AUS",Tablet,Sydney,AUS
+462,25-34,Female,"Sydney, AUS",Desktop,Sydney,AUS
+463,18-24,Male,"London, UK",Desktop,London,UK
+464,35-44,Female,"London, UK",Mobile,London,UK
+465,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+466,18-24,Female,"New York, USA",Tablet,New York,USA
+467,35-44,Female,"London, UK",Mobile,London,UK
+468,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+469,55+,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+470,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+471,18-24,Male,"London, UK",Tablet,London,UK
+472,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+473,45-54,Male,"London, UK",Desktop,London,UK
+474,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+475,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+476,55+,Male,"New York, USA",Mobile,New York,USA
+477,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+478,45-54,Female,"New York, USA",Mobile,New York,USA
+479,45-54,Female,"London, UK",Mobile,London,UK
+480,18-24,Male,"Berlin, GER",Tablet,Berlin,GER
+481,18-24,Male,"New York, USA",Tablet,New York,USA
+482,25-34,Male,"Sydney, AUS",Mobile,Sydney,AUS
+483,35-44,Male,"London, UK",Desktop,London,UK
+484,35-44,Male,"Berlin, GER",Mobile,Berlin,GER
+485,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+486,18-24,Female,"London, UK",Mobile,London,UK
+487,35-44,Male,"New York, USA",Tablet,New York,USA
+488,25-34,Female,"Sydney, AUS",Desktop,Sydney,AUS
+489,25-34,Female,"New York, USA",Desktop,New York,USA
+490,55+,Male,"London, UK",Mobile,London,UK
+491,35-44,Male,"London, UK",Mobile,London,UK
+492,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+493,25-34,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+494,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+495,35-44,Female,"New York, USA",Tablet,New York,USA
+496,45-54,Male,"New York, USA",Tablet,New York,USA
+497,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+498,55+,Female,"London, UK",Mobile,London,UK
+499,18-24,Female,"London, UK",Mobile,London,UK
+500,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+501,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+502,55+,Male,"New York, USA",Desktop,New York,USA
+503,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+504,45-54,Female,"Berlin, GER",Mobile,Berlin,GER
+505,55+,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+506,55+,Female,"London, UK",Desktop,London,UK
+507,55+,Female,"New York, USA",Mobile,New York,USA
+508,55+,Female,"London, UK",Mobile,London,UK
+509,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+510,55+,Female,"New York, USA",Mobile,New York,USA
+511,25-34,Female,"New York, USA",Desktop,New York,USA
+512,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+513,18-24,Female,"New York, USA",Tablet,New York,USA
+514,45-54,Female,"Berlin, GER",Tablet,Berlin,GER
+515,25-34,Female,"London, UK",Mobile,London,UK
+516,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+517,55+,Female,"Sydney, AUS",Desktop,Sydney,AUS
+518,35-44,Male,"New York, USA",Desktop,New York,USA
+519,45-54,Female,"Berlin, GER",Mobile,Berlin,GER
+520,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+521,25-34,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+522,25-34,Female,"Berlin, GER",Mobile,Berlin,GER
+523,35-44,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+524,35-44,Male,"London, UK",Tablet,London,UK
+525,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+526,25-34,Male,"London, UK",Mobile,London,UK
+527,25-34,Male,"London, UK",Desktop,London,UK
+528,25-34,Female,"Berlin, GER",Tablet,Berlin,GER
+529,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+530,55+,Male,"New York, USA",Desktop,New York,USA
+531,35-44,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+532,35-44,Female,"London, UK",Mobile,London,UK
+533,55+,Male,"London, UK",Tablet,London,UK
+534,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+535,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+536,25-34,Female,"New York, USA",Desktop,New York,USA
+537,55+,Male,"Berlin, GER",Mobile,Berlin,GER
+538,18-24,Female,"New York, USA",Tablet,New York,USA
+539,55+,Female,"London, UK",Desktop,London,UK
+540,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+541,18-24,Female,"Sydney, AUS",Mobile,Sydney,AUS
+542,25-34,Male,"Berlin, GER",Mobile,Berlin,GER
+543,35-44,Male,"New York, USA",Mobile,New York,USA
+544,18-24,Male,"New York, USA",Tablet,New York,USA
+545,55+,Male,"New York, USA",Mobile,New York,USA
+546,25-34,Male,"Berlin, GER",Desktop,Berlin,GER
+547,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+548,18-24,Male,"Berlin, GER",Desktop,Berlin,GER
+549,18-24,Female,"New York, USA",Mobile,New York,USA
+550,55+,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+551,18-24,Female,"New York, USA",Tablet,New York,USA
+552,55+,Female,"Berlin, GER",Desktop,Berlin,GER
+553,45-54,Female,"London, UK",Desktop,London,UK
+554,45-54,Male,"London, UK",Tablet,London,UK
+555,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+556,45-54,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+557,18-24,Female,"Berlin, GER",Mobile,Berlin,GER
+558,18-24,Female,"London, UK",Tablet,London,UK
+559,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+560,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+561,45-54,Male,"New York, USA",Mobile,New York,USA
+562,45-54,Male,"Berlin, GER",Tablet,Berlin,GER
+563,18-24,Male,"New York, USA",Mobile,New York,USA
+564,45-54,Male,"New York, USA",Desktop,New York,USA
+565,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+566,25-34,Male,"Sydney, AUS",Desktop,Sydney,AUS
+567,55+,Male,"London, UK",Desktop,London,UK
+568,25-34,Male,"New York, USA",Tablet,New York,USA
+569,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+570,45-54,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+571,45-54,Male,"Sydney, AUS",Tablet,Sydney,AUS
+572,18-24,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+573,55+,Female,"Sydney, AUS",Mobile,Sydney,AUS
+574,45-54,Female,"Sydney, AUS",Desktop,Sydney,AUS
+575,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+576,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+577,25-34,Female,"Sydney, AUS",Tablet,Sydney,AUS
+578,35-44,Female,"London, UK",Mobile,London,UK
+579,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+580,35-44,Male,"Berlin, GER",Tablet,Berlin,GER
+581,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+582,25-34,Female,"Sydney, AUS",Tablet,Sydney,AUS
+583,25-34,Female,"New York, USA",Mobile,New York,USA
+584,55+,Male,"Berlin, GER",Tablet,Berlin,GER
+585,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+586,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+587,18-24,Female,"London, UK",Mobile,London,UK
+588,45-54,Male,"Sydney, AUS",Mobile,Sydney,AUS
+589,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+590,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+591,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+592,18-24,Female,"New York, USA",Tablet,New York,USA
+593,25-34,Female,"London, UK",Desktop,London,UK
+594,18-24,Female,"Berlin, GER",Tablet,Berlin,GER
+595,55+,Female,"Sydney, AUS",Mobile,Sydney,AUS
+596,18-24,Male,"New York, USA",Tablet,New York,USA
+597,25-34,Male,"London, UK",Desktop,London,UK
+598,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+599,45-54,Female,"London, UK",Tablet,London,UK
+600,55+,Male,"Berlin, GER",Mobile,Berlin,GER
+601,55+,Male,"Berlin, GER",Tablet,Berlin,GER
+602,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+603,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+604,25-34,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+605,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+606,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+607,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+608,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+609,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+610,25-34,Male,"Berlin, GER",Desktop,Berlin,GER
+611,45-54,Female,"London, UK",Tablet,London,UK
+612,55+,Female,"Berlin, GER",Tablet,Berlin,GER
+613,35-44,Female,"London, UK",Tablet,London,UK
+614,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+615,25-34,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+616,35-44,Male,"Sydney, AUS",Desktop,Sydney,AUS
+617,35-44,Male,"London, UK",Mobile,London,UK
+618,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+619,35-44,Female,"London, UK",Desktop,London,UK
+620,25-34,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+621,45-54,Female,"Berlin, GER",Mobile,Berlin,GER
+622,35-44,Female,"Berlin, GER",Tablet,Berlin,GER
+623,18-24,Male,"Berlin, GER",Desktop,Berlin,GER
+624,35-44,Male,"Sydney, AUS",Tablet,Sydney,AUS
+625,18-24,Male,"Berlin, GER",Desktop,Berlin,GER
+626,55+,Male,"New York, USA",Mobile,New York,USA
+627,25-34,Female,"Sydney, AUS",Tablet,Sydney,AUS
+628,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+629,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+630,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+631,55+,Female,"London, UK",Mobile,London,UK
+632,35-44,Female,"London, UK",Mobile,London,UK
+633,45-54,Female,"London, UK",Desktop,London,UK
+634,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+635,25-34,Female,"New York, USA",Mobile,New York,USA
+636,45-54,Male,"London, UK",Desktop,London,UK
+637,25-34,Female,"New York, USA",Tablet,New York,USA
+638,25-34,Female,"London, UK",Desktop,London,UK
+639,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+640,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+641,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+642,35-44,Female,"New York, USA",Tablet,New York,USA
+643,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+644,45-54,Male,"Berlin, GER",Desktop,Berlin,GER
+645,25-34,Male,"New York, USA",Desktop,New York,USA
+646,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+647,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+648,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+649,25-34,Female,"Berlin, GER",Mobile,Berlin,GER
+650,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+651,18-24,Male,"London, UK",Mobile,London,UK
+652,45-54,Female,"Berlin, GER",Mobile,Berlin,GER
+653,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+654,18-24,Male,"Sydney, AUS",Mobile,Sydney,AUS
+655,25-34,Female,"Sydney, AUS",Desktop,Sydney,AUS
+656,18-24,Male,"Berlin, GER",Mobile,Berlin,GER
+657,25-34,Male,"London, UK",Mobile,London,UK
+658,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+659,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+660,45-54,Female,"New York, USA",Desktop,New York,USA
+661,35-44,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+662,18-24,Male,"Sydney, AUS",Mobile,Sydney,AUS
+663,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+664,35-44,Female,"Berlin, GER",Mobile,Berlin,GER
+665,25-34,Male,"London, UK",Mobile,London,UK
+666,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+667,25-34,Female,"Sydney, AUS",Desktop,Sydney,AUS
+668,45-54,Female,"London, UK",Tablet,London,UK
+669,35-44,Male,"Berlin, GER",Tablet,Berlin,GER
+670,35-44,Male,"New York, USA",Tablet,New York,USA
+671,55+,Male,"New York, USA",Tablet,New York,USA
+672,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+673,55+,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+674,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+675,25-34,Female,"London, UK",Desktop,London,UK
+676,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+677,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+678,18-24,Male,"Sydney, AUS",Desktop,Sydney,AUS
+679,18-24,Female,"London, UK",Mobile,London,UK
+680,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+681,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+682,55+,Female,"London, UK",Mobile,London,UK
+683,25-34,Male,"New York, USA",Desktop,New York,USA
+684,35-44,Male,"New York, USA",Mobile,New York,USA
+685,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+686,35-44,Female,"New York, USA",Tablet,New York,USA
+687,55+,Male,"Sydney, AUS",Tablet,Sydney,AUS
+688,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+689,45-54,Female,"Sydney, AUS",Tablet,Sydney,AUS
+690,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+691,25-34,Male,"New York, USA",Mobile,New York,USA
+692,35-44,Male,"London, UK",Mobile,London,UK
+693,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+694,18-24,Female,"London, UK",Desktop,London,UK
+695,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+696,18-24,Male,"New York, USA",Desktop,New York,USA
+697,25-34,Male,"New York, USA",Desktop,New York,USA
+698,25-34,Male,"New York, USA",Desktop,New York,USA
+699,45-54,Male,"New York, USA",Mobile,New York,USA
+700,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+701,55+,Male,"Berlin, GER",Desktop,Berlin,GER
+702,45-54,Female,"London, UK",Mobile,London,UK
+703,25-34,Female,"London, UK",Desktop,London,UK
+704,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+705,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+706,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+707,55+,Male,"London, UK",Desktop,London,UK
+708,45-54,Female,"Berlin, GER",Tablet,Berlin,GER
+709,55+,Male,"New York, USA",Mobile,New York,USA
+710,25-34,Female,"Sydney, AUS",Tablet,Sydney,AUS
+711,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+712,18-24,Female,"Berlin, GER",Mobile,Berlin,GER
+713,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+714,18-24,Female,"New York, USA",Tablet,New York,USA
+715,25-34,Female,"New York, USA",Mobile,New York,USA
+716,45-54,Female,"New York, USA",Tablet,New York,USA
+717,25-34,Female,"New York, USA",Tablet,New York,USA
+718,55+,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+719,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+720,45-54,Male,"New York, USA",Desktop,New York,USA
+721,35-44,Male,"New York, USA",Mobile,New York,USA
+722,35-44,Female,"Berlin, GER",Mobile,Berlin,GER
+723,35-44,Male,"New York, USA",Tablet,New York,USA
+724,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+725,55+,Male,"New York, USA",Tablet,New York,USA
+726,18-24,Female,"New York, USA",Mobile,New York,USA
+727,45-54,Female,"Berlin, GER",Tablet,Berlin,GER
+728,45-54,Male,"London, UK",Mobile,London,UK
+729,55+,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+730,25-34,Female,"New York, USA",Desktop,New York,USA
+731,55+,Male,"Sydney, AUS",Tablet,Sydney,AUS
+732,45-54,Female,"London, UK",Desktop,London,UK
+733,55+,Male,"Berlin, GER",Mobile,Berlin,GER
+734,45-54,Male,"London, UK",Tablet,London,UK
+735,55+,Male,"London, UK",Desktop,London,UK
+736,45-54,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+737,18-24,Male,"London, UK",Desktop,London,UK
+738,25-34,Female,"London, UK",Mobile,London,UK
+739,45-54,Female,"Sydney, AUS",Desktop,Sydney,AUS
+740,45-54,Male,"London, UK",Desktop,London,UK
+741,18-24,Female,"Berlin, GER",Tablet,Berlin,GER
+742,18-24,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+743,25-34,Male,"Berlin, GER",Mobile,Berlin,GER
+744,25-34,Male,"London, UK",Tablet,London,UK
+745,35-44,Female,"New York, USA",Desktop,New York,USA
+746,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+747,45-54,Female,"Berlin, GER",Tablet,Berlin,GER
+748,55+,Female,"Berlin, GER",Tablet,Berlin,GER
+749,45-54,Male,"London, UK",Mobile,London,UK
+750,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+751,25-34,Female,"New York, USA",Desktop,New York,USA
+752,25-34,Male,"Sydney, AUS",Tablet,Sydney,AUS
+753,55+,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+754,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+755,25-34,Male,"London, UK",Desktop,London,UK
+756,35-44,Male,"Sydney, AUS",Desktop,Sydney,AUS
+757,18-24,Female,"London, UK",Mobile,London,UK
+758,18-24,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+759,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+760,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+761,45-54,Female,"Sydney, AUS",Desktop,Sydney,AUS
+762,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+763,35-44,Male,"London, UK",Desktop,London,UK
+764,18-24,Male,"New York, USA",Desktop,New York,USA
+765,25-34,Female,"New York, USA",Desktop,New York,USA
+766,25-34,Male,"Sydney, AUS",Tablet,Sydney,AUS
+767,55+,Male,"New York, USA",Desktop,New York,USA
+768,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+769,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+770,35-44,Male,"London, UK",Mobile,London,UK
+771,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+772,35-44,Male,"New York, USA",Tablet,New York,USA
+773,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+774,45-54,Female,"Berlin, GER",Tablet,Berlin,GER
+775,55+,Female,"London, UK",Desktop,London,UK
+776,25-34,Female,"Sydney, AUS",Tablet,Sydney,AUS
+777,25-34,Female,"London, UK",Desktop,London,UK
+778,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+779,45-54,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+780,55+,Male,"Sydney, AUS",Desktop,Sydney,AUS
+781,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+782,55+,Female,"Sydney, AUS",Mobile,Sydney,AUS
+783,55+,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+784,35-44,Male,"London, UK",Tablet,London,UK
+785,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+786,45-54,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+787,55+,Female,"Berlin, GER",Mobile,Berlin,GER
+788,35-44,Male,"London, UK",Mobile,London,UK
+789,35-44,Male,"New York, USA",Tablet,New York,USA
+790,18-24,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+791,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+792,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+793,45-54,Female,"London, UK",Tablet,London,UK
+794,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+795,25-34,Female,"Sydney, AUS",Mobile,Sydney,AUS
+796,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+797,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+798,55+,Male,"London, UK",Mobile,London,UK
+799,45-54,Female,"New York, USA",Mobile,New York,USA
+800,35-44,Male,"New York, USA",Desktop,New York,USA
+801,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+802,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+803,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+804,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+805,35-44,Female,"London, UK",Desktop,London,UK
+806,35-44,Male,"Sydney, AUS",Desktop,Sydney,AUS
+807,55+,Female,"New York, USA",Desktop,New York,USA
+808,35-44,Female,"Berlin, GER",Tablet,Berlin,GER
+809,55+,Female,"London, UK",Tablet,London,UK
+810,25-34,Male,"Berlin, GER",Tablet,Berlin,GER
+811,55+,Male,"Berlin, GER",Desktop,Berlin,GER
+812,45-54,Female,"Berlin, GER",Desktop,Berlin,GER
+813,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+814,35-44,Male,"Berlin, GER",Mobile,Berlin,GER
+815,45-54,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+816,18-24,Female,"Sydney, AUS",Mobile,Sydney,AUS
+817,45-54,Male,"London, UK",Desktop,London,UK
+818,55+,Male,"London, UK",Mobile,London,UK
+819,35-44,Male,"New York, USA",Mobile,New York,USA
+820,45-54,Female,"London, UK",Tablet,London,UK
+821,45-54,Male,"Sydney, AUS",Mobile,Sydney,AUS
+822,55+,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+823,35-44,Female,"London, UK",Mobile,London,UK
+824,35-44,Female,"Sydney, AUS",Tablet,Sydney,AUS
+825,55+,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+826,18-24,Male,"Sydney, AUS",Desktop,Sydney,AUS
+827,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+828,35-44,Male,"New York, USA",Desktop,New York,USA
+829,35-44,Male,"London, UK",Tablet,London,UK
+830,45-54,Male,"Sydney, AUS",Mobile,Sydney,AUS
+831,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+832,55+,Male,"New York, USA",Mobile,New York,USA
+833,35-44,Male,"New York, USA",Tablet,New York,USA
+834,55+,Male,"London, UK",Mobile,London,UK
+835,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+836,18-24,Male,"London, UK",Tablet,London,UK
+837,18-24,Male,"London, UK",Tablet,London,UK
+838,18-24,Female,"Sydney, AUS",Desktop,Sydney,AUS
+839,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+840,25-34,Female,"New York, USA",Tablet,New York,USA
+841,55+,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+842,35-44,Female,"Berlin, GER",Desktop,Berlin,GER
+843,45-54,Male,"New York, USA",Mobile,New York,USA
+844,25-34,Male,"New York, USA",Mobile,New York,USA
+845,25-34,Male,"London, UK",Desktop,London,UK
+846,45-54,Female,"Sydney, AUS",Tablet,Sydney,AUS
+847,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+848,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+849,45-54,Female,"Sydney, AUS",Mobile,Sydney,AUS
+850,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+851,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+852,25-34,Male,"Berlin, GER",Mobile,Berlin,GER
+853,18-24,Female,"Sydney, AUS",Desktop,Sydney,AUS
+854,18-24,Male,"New York, USA",Tablet,New York,USA
+855,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+856,25-34,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+857,45-54,Female,"London, UK",Desktop,London,UK
+858,55+,Male,"Sydney, AUS",Tablet,Sydney,AUS
+859,18-24,Male,"Berlin, GER",Mobile,Berlin,GER
+860,55+,Male,"Berlin, GER",Tablet,Berlin,GER
+861,55+,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+862,25-34,Female,"Sydney, AUS",Mobile,Sydney,AUS
+863,18-24,Male,"London, UK",Tablet,London,UK
+864,18-24,Female,"Berlin, GER",Tablet,Berlin,GER
+865,55+,Male,"Berlin, GER",Tablet,Berlin,GER
+866,55+,Male,"New York, USA",Desktop,New York,USA
+867,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+868,35-44,Female,"Berlin, GER",Desktop,Berlin,GER
+869,35-44,Male,"New York, USA",Tablet,New York,USA
+870,35-44,Male,"Berlin, GER",Tablet,Berlin,GER
+871,45-54,Male,"Berlin, GER",Desktop,Berlin,GER
+872,25-34,Female,"Sydney, AUS",Tablet,Sydney,AUS
+873,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+874,55+,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+875,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+876,18-24,Female,"Berlin, GER",Desktop,Berlin,GER
+877,45-54,Female,"Berlin, GER",Mobile,Berlin,GER
+878,45-54,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+879,45-54,Male,"New York, USA",Tablet,New York,USA
+880,35-44,Female,"New York, USA",Desktop,New York,USA
+881,45-54,Female,"London, UK",Desktop,London,UK
+882,35-44,Female,"New York, USA",Desktop,New York,USA
+883,18-24,Male,"Berlin, GER",Tablet,Berlin,GER
+884,25-34,Female,"London, UK",Mobile,London,UK
+885,45-54,Female,"Berlin, GER",Mobile,Berlin,GER
+886,35-44,Male,"Sydney, AUS",Mobile,Sydney,AUS
+887,55+,Female,"New York, USA",Desktop,New York,USA
+888,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+889,35-44,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+890,55+,Female,"Sydney, AUS",Tablet,Sydney,AUS
+891,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+892,18-24,Female,"Berlin, GER",Tablet,Berlin,GER
+893,25-34,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+894,25-34,Male,"London, UK",Tablet,London,UK
+895,18-24,Male,"New York, USA",Tablet,New York,USA
+896,18-24,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+897,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+898,45-54,Female,"New York, USA",Desktop,New York,USA
+899,55+,Male,"New York, USA",Tablet,New York,USA
+900,55+,Female,"New York, USA",Tablet,New York,USA
+901,45-54,Male,"Berlin, GER",Mobile,Berlin,GER
+902,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+903,25-34,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+904,18-24,Male,"New York, USA",Tablet,New York,USA
+905,25-34,Female,"Sydney, AUS",Mobile,Sydney,AUS
+906,18-24,Male,"New York, USA",Desktop,New York,USA
+907,25-34,Female,"London, UK",Desktop,London,UK
+908,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+909,18-24,Female,"Sydney, AUS",Mobile,Sydney,AUS
+910,25-34,Female,"New York, USA",Tablet,New York,USA
+911,55+,Male,"New York, USA",Tablet,New York,USA
+912,25-34,Female,"London, UK",Desktop,London,UK
+913,18-24,Male,"Berlin, GER",Desktop,Berlin,GER
+914,45-54,Female,"London, UK",Desktop,London,UK
+915,18-24,Male,"London, UK",Mobile,London,UK
+916,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+917,25-34,Male,"New York, USA",Desktop,New York,USA
+918,35-44,Female,"New York, USA",Desktop,New York,USA
+919,18-24,Male,"Sydney, AUS",Tablet,Sydney,AUS
+920,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+921,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+922,25-34,Female,"Berlin, GER",Mobile,Berlin,GER
+923,25-34,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+924,35-44,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+925,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+926,18-24,Female,"New York, USA",Tablet,New York,USA
+927,25-34,Male,"Berlin, GER",Mobile,Berlin,GER
+928,18-24,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+929,25-34,Female,"Berlin, GER",Tablet,Berlin,GER
+930,45-54,Male,"Sydney, AUS",Tablet,Sydney,AUS
+931,18-24,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+932,55+,Male,"Sydney, AUS",Tablet,Sydney,AUS
+933,55+,Female,"Tokyo, JAP",Tablet,Tokyo,JAP
+934,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+935,18-24,Female,"New York, USA",Mobile,New York,USA
+936,45-54,Male,"London, UK",Tablet,London,UK
+937,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+938,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+939,25-34,Male,"Sydney, AUS",Tablet,Sydney,AUS
+940,45-54,Female,"London, UK",Desktop,London,UK
+941,55+,Female,"Sydney, AUS",Mobile,Sydney,AUS
+942,18-24,Male,"London, UK",Mobile,London,UK
+943,55+,Female,"London, UK",Mobile,London,UK
+944,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+945,25-34,Female,"Berlin, GER",Tablet,Berlin,GER
+946,25-34,Male,"New York, USA",Mobile,New York,USA
+947,45-54,Female,"London, UK",Tablet,London,UK
+948,55+,Male,"New York, USA",Tablet,New York,USA
+949,35-44,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+950,55+,Female,"Sydney, AUS",Desktop,Sydney,AUS
+951,55+,Female,"London, UK",Desktop,London,UK
+952,55+,Male,"London, UK",Desktop,London,UK
+953,35-44,Male,"Berlin, GER",Desktop,Berlin,GER
+954,55+,Male,"Tokyo, JAP",Desktop,Tokyo,JAP
+955,25-34,Male,"New York, USA",Mobile,New York,USA
+956,25-34,Male,"London, UK",Tablet,London,UK
+957,18-24,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+958,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+959,55+,Male,"London, UK",Desktop,London,UK
+960,25-34,Male,"London, UK",Desktop,London,UK
+961,55+,Male,"Sydney, AUS",Mobile,Sydney,AUS
+962,55+,Female,"Berlin, GER",Desktop,Berlin,GER
+963,35-44,Female,"Sydney, AUS",Mobile,Sydney,AUS
+964,35-44,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+965,55+,Female,"London, UK",Mobile,London,UK
+966,25-34,Male,"London, UK",Mobile,London,UK
+967,18-24,Female,"Berlin, GER",Tablet,Berlin,GER
+968,45-54,Male,"Sydney, AUS",Desktop,Sydney,AUS
+969,25-34,Female,"London, UK",Desktop,London,UK
+970,18-24,Female,"Sydney, AUS",Desktop,Sydney,AUS
+971,45-54,Male,"Berlin, GER",Desktop,Berlin,GER
+972,18-24,Female,"Tokyo, JAP",Mobile,Tokyo,JAP
+973,45-54,Female,"London, UK",Mobile,London,UK
+974,25-34,Female,"Berlin, GER",Tablet,Berlin,GER
+975,45-54,Male,"London, UK",Tablet,London,UK
+976,55+,Male,"New York, USA",Mobile,New York,USA
+977,55+,Female,"Sydney, AUS",Mobile,Sydney,AUS
+978,18-24,Male,"New York, USA",Desktop,New York,USA
+979,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+980,25-34,Male,"London, UK",Desktop,London,UK
+981,35-44,Male,"London, UK",Mobile,London,UK
+982,25-34,Male,"Sydney, AUS",Tablet,Sydney,AUS
+983,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+984,35-44,Male,"Berlin, GER",Mobile,Berlin,GER
+985,45-54,Female,"London, UK",Mobile,London,UK
+986,55+,Male,"New York, USA",Mobile,New York,USA
+987,25-34,Female,"Berlin, GER",Desktop,Berlin,GER
+988,55+,Male,"New York, USA",Tablet,New York,USA
+989,18-24,Female,"Tokyo, JAP",Desktop,Tokyo,JAP
+990,35-44,Female,"New York, USA",Desktop,New York,USA
+991,45-54,Male,"Sydney, AUS",Mobile,Sydney,AUS
+992,35-44,Female,"Sydney, AUS",Desktop,Sydney,AUS
+993,55+,Female,"New York, USA",Mobile,New York,USA
+994,45-54,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+995,35-44,Male,"Tokyo, JAP",Tablet,Tokyo,JAP
+996,18-24,Male,"London, UK",Desktop,London,UK
+997,55+,Male,"New York, USA",Desktop,New York,USA
+998,25-34,Male,"Tokyo, JAP",Mobile,Tokyo,JAP
+999,25-34,Male,"New York, USA",Mobile,New York,USA
+1000,35-44,Male,"Berlin, GER",Mobile,Berlin,GER
